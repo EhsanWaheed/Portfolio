@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <!-- Tab Title -->
         <title>Ehsan Waheed</title>
 
         <!-- Fonts -->
@@ -71,6 +71,11 @@
                 <div class="title m-b-md">
                     Ehsan's Portfolio
                 </div>
+                <div>
+                <!-- Text -->
+                <p>Development in progress.</p>
+                </div>
+
                 <div class="links">
                     <a href="https://github.com/EhsanWaheed">GitHub</a>
                 </div>
